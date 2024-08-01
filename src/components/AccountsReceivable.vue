@@ -1,4 +1,5 @@
 <template>
+  <div>version 1.0</div>
   <div>
     <h1>Accounts Receivable</h1>
     <DataTable :products="products" @update-products="updateProducts" />
